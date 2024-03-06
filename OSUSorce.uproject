@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{0FFF3ED5-4036-5D5C-1E94-97B77F05267F}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "OSUSorce",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
